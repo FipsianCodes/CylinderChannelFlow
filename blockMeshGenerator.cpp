@@ -5,7 +5,7 @@
  *
  *    Description:  
  *
- *        Version:  1.0
+ *        Version:  1.1
  *        Created:  23.11.2020 11:47:15
  *       Revision:  none
  *       Compiler:  gcc
@@ -22,7 +22,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include </media/fips/data/parareal/openFoam/CAU/libconfig-1.7.2/lib/libconfig.h++>
+#include <$PATH_TO_LIB/libconfig-1.7.2/lib/libconfig.h++>
 
 using namespace libconfig;
 using namespace std;
