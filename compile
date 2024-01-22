@@ -1,0 +1,4 @@
+
+
+g++ blockMeshGenerator.cpp -o BlockMeshGenerator -O2 -lconfig++
+
